@@ -3,7 +3,7 @@ Tutorial Menggunakan github
 ![2018-11-04](https://user-images.githubusercontent.com/46559356/51582426-91e8f280-1efe-11e9-9be6-7992f8762e55.png)
 Membuat akun pada layanan github
 untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan github, tidak masalah kalau nanti misalnya mau pindah ke layanan lain seperti gitlab seperti yang saya lakukan sekarang, karena saya tetap menggunakan keduanya.
-
+![index](https://user-images.githubusercontent.com/46559356/51582445-a4fbc280-1efe-11e9-9171-036eb64feb50.jpg)
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 Membuat Repositori online
 
