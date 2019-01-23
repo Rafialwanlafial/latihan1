@@ -46,3 +46,4 @@ git push origin “nama branch”
 Perintah untuk mengupload file yang ada pada repo lokal ke repo online yang diletakkan pada branch yang sudah tersedia di repo online.
 Setelah melakukan semua perintah silahkan cek di github, apakah file yg di upload sudah masuk atau tidak? jika iya maka anda berhasil mengelola git untuk tahap awal
 BENTUK KODE YANG DIMASUKAN KE GitBash
+![awal](https://user-images.githubusercontent.com/46559356/51582459-b93fbf80-1efe-11e9-9b2e-6b37c9740681.png)
